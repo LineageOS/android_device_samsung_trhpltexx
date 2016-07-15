@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_024ca29c",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 426,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_c2452a72",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 973,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Please indent this by 4 spaces.",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_e24aa67e",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1131,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Remove the \u003ctab\u003e, single whitespace should be enough",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_825f3240",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1238,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Newline here please",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_a25cae4b",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1523,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Remove the \u003ctab\u003e and replace with whitespace",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_42593a58",
+        "filename": "configs/audio/mixer_paths.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 1806,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-07-15T08:45:56Z",
+      "side": 1,
+      "message": "Whitespace",
+      "revId": "5191d995da4ab97a0bfc3a2864b889de9df7ffca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
