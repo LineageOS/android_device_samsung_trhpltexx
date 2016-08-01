@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_bdf02869",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-08-01T12:55:08Z",
+      "side": 1,
+      "message": "This looks like a QC only prop.",
+      "revId": "364f70c5bd22b62a11083a690955c7191c029334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_ddf3a472",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-08-01T12:55:08Z",
+      "side": 1,
+      "message": "This looks like a QC only prop.",
+      "revId": "364f70c5bd22b62a11083a690955c7191c029334",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
